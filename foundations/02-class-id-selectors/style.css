@@ -3,16 +3,16 @@
     font-family:Verdana, 'DejaVu Sans', sans-serif;
 }
 
+.spec-size {
+    font-size: 24px;
+}
+
 #second {
     font-size: 36px;
     color: hsl(240, 100%, 50%);
 }
 
-#third,
-#fourth {
-    font-size: 24px;
-}
-
 #fourth {
     background-color: rgb(143, 237, 143);
+    font-weight: bold;
 }
